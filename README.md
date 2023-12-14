@@ -1,1 +1,2 @@
-Primer commit de la práctic 02.
+Primer commit de la práctica 02.
+Aldo commit.
